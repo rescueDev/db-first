@@ -1,0 +1,5 @@
+Note progettazione DB Studente
+
+le righe con il pallino vuoto (bianco) sono quelle che hanno vincolo NULL in quanto ho deciso che non si trattasse di informazioni essenziali, o meglio eventuali e volontariamente fornite dallo studente. {email, telefono, consenso dati, patente}
+
+Altri valori come la media voti e la condotta possono essere non ancora definiti in quanto lo studente non ha ancora voti e/o e' appena iniziato l'anno scolastico.
