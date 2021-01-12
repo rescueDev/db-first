@@ -1,0 +1,5 @@
+Uno o + utenti possono fare 1 o + prenotazioni
+Una o + prenotazioni possono essere fatte per uno o + utenti
+
+Una stanza puo' essere in una o piu prenotazioni, oppure in nessuna prenotazione.
+Una prenotazione puo' avere una stanza.
